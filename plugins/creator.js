@@ -14,7 +14,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • Owner tidak menerima save contact
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
+• Owner Hanya merespon yang berkaitan dengan BOT/Sewabot
 • No Telp`
 
 //------------ BIO
