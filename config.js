@@ -59,7 +59,7 @@ global.ppulsa2 = '083890585717'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = ''
+global.nomorbot = '6281315257194'
 global.nomorown = '6283890585717'
 global.namebot = 'Zeroo Bot'
 global.nameown = 'Zeroo Store'
