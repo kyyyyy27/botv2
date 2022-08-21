@@ -44,7 +44,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/belumpuny'
+global.sig = 'wa.me/6283890585717'
 global.sgh = 'https://github.com'
 global.sgc = 'https://chat.whatsapp.com/E8IwFUibPjkDgilRKw6JBg'
 global.sdc = " "
@@ -56,7 +56,7 @@ global.povo = 'https://telegra.ph/file/8b56819006176f6cbbe22.jpg'
 global.pgopay = 'https://telegra.ph/file/8b56819006176f6cbbe22.jpg'
 global.ppulsa = '083830815715'
 global.ppulsa2 = '083890585717'
-global.psaweria = '-'
+global.psaweria = 'https://telegra.ph/file/8b56819006176f6cbbe22.jpg'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281315257194'
